@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yomi-aledare
 - 👀 I’m interested in building solutions in BioInformatics with focus on understudying the causative effects of terminal diseases like cancer and others.
-- 🌱 I’m currently learning python, scikitlearn, pytouch, tensorflow, deep learning, transformers, federated learning.
+- 🌱 I’m currently learning python, scikitlearn, pytouch, tensorflow, deep learning, transformers, federated learning and reinforcement learning.
 - 💞️ I’m looking to collaborate on Data Analysis and Data Science based-projects
 - 📫 How to reach me yomi.aledare@gmail.com
 - 😄 Pronouns: N/A
